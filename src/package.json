@@ -1,0 +1,34 @@
+{
+  "name": "badge-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelemm/badge-generator.git"
+  },
+  "author": "Leandro Menezes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lelemm/badge-generator/issues"
+  },
+  "homepage": "https://github.com/lelemm/badge-generator#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25",
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "jimp": "^0.22.12",
+    "js-yaml": "^4.1.0",
+    "qr-with-logo": "^1.0.5",
+    "qrcode-with-logos": "^1.0.5",
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "typescript": "^5.4.2"
+  }
+}
