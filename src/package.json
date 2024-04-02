@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/lelemm/badge-generator#readme",
   "dependencies": {
-    "@types/node": "^20.11.25",
+    "@types/node": "^20.11.26",
     "boxen": "^7.1.1",
     "chalk": "^5.3.0",
     "jimp": "^0.22.12",
