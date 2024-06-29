@@ -24,7 +24,7 @@
     "jimp": "^0.22.12",
     "js-yaml": "^4.1.0",
     "qr-with-logo": "^1.0.5",
-    "qrcode-with-logos": "^1.0.5",
+    "qrcode-with-logos": "^1.0.6",
     "sanitize-filename": "^1.6.3"
   },
   "devDependencies": {
